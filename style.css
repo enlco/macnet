@@ -366,17 +366,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Link colour styles */
 
-.ltc-outer-space{
-	color:#47454B!important;
+.ltc-white{
+	color:#ffffff!important;
 }
-.ltc-outer-space:hover{
-	color:#3b393e!important;
+.ltc-white:hover{
+	color:#ffffff!important;
 }
 
 /* Bloc image backgrounds */
 
-.bg-RiversMeet-ROW12983242988-1920x1080{
-	background-image:url("img/RiversMeet_ROW12983242988_1920x1080.jpg");
+.bg-ZhangjiajieLandscape-ROW13434455714-1920x1080{
+	background-image:url("img/ZhangjiajieLandscape_ROW13434455714_1920x1080.jpg");
 }
 
 
